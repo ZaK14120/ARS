@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f0b625614a406468ee087f147489e7, type: 3}
+  m_Name: '[heart water fill v02]9c97a466b1a3448b29faebf69517825d_1_1'
+  m_EditorClassIdentifier: 
+  m_Asset: {fileID: 11400000, guid: 9c97a466b1a3448b29faebf69517825d, type: 2}
+  m_Scale: 1
+  m_CSF: 1
+  m_CurrentDataPath: Assets/GAF/heart water fill v02/
+  m_Data:
+  - m_SearchName: heart water fill v02
+    m_SharedTexture: {fileID: 2800000, guid: 497492db929a147ed863b9e50bcc48f8, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: 2dc854eebe4034d40839a2bcd43beb25, type: 2}
+  - m_SearchName: heart water fill v02_2
+    m_SharedTexture: {fileID: 2800000, guid: 3ef2b9adcafcc42a5a1f121798e5d684, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: a0b3e299fa7684d7e978b9b743c73927, type: 2}
+  - m_SearchName: heart water fill v02_3
+    m_SharedTexture: {fileID: 2800000, guid: bb9f4f95067384f0786b5beb39a458f7, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: dd03e4508d17144cea02bfe4fd740d81, type: 2}
